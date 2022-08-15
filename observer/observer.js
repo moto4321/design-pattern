@@ -28,7 +28,7 @@ class Observer {
   }
 
   update(subj) {
-    console.log(`${this.name}: notified from ${subj} class!`)
+    console.log(`${this.name}: notified from ${subj} class!`);
   }
 }
 
